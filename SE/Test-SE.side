@@ -1,0 +1,88 @@
+{
+  "id": "fb7746a0-8864-4d81-8c29-7e3f801df025",
+  "version": "2.0",
+  "name": "Test-SE",
+  "url": "https://mail.google.com",
+  "tests": [{
+    "id": "95184192-0df9-498f-8edc-3909587d749e",
+    "name": "Test-Email-1",
+    "commands": [{
+      "id": "653d1a7d-8c29-4919-886b-cfb276fd2803",
+      "comment": "",
+      "command": "open",
+      "target": "/mail/u/0/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "67a4b119-70d4-47eb-862d-64c48f6a79ab",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "1262x933",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0202a8c8-3feb-40c2-a0bd-5c3e722f0c28",
+      "comment": "",
+      "command": "click",
+      "target": "id=:24",
+      "targets": [
+        ["id=:24", "id"],
+        ["css=#\\3A 24", "css:finder"],
+        ["xpath=//span[@id=':24']", "xpath:attributes"],
+        ["xpath=//td[@id=':21']/div/div/span", "xpath:idRelative"],
+        ["xpath=//td[5]/div/div/span", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "2b703779-b774-471e-b6f5-6ee2b7ac038f",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "linkText=unsubscribe or change your settings",
+      "targets": [
+        ["linkText=unsubscribe or change your settings", "linkText"],
+        ["css=div:nth-child(2) > a:nth-child(2)", "css:finder"],
+        ["xpath=//a[contains(text(),'unsubscribe or change your settings')]", "xpath:link"],
+        ["xpath=//div[@id=':m6']/div/table/tbody/tr/td/table/tbody/tr[3]/td/div[2]/a", "xpath:idRelative"],
+        ["xpath=(//a[contains(@href, 'https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/s&Email=thunhph40458@fpt.edu.vn')])[2]", "xpath:href"],
+        ["xpath=//tr[3]/td/div[2]/a", "xpath:position"],
+        ["xpath=//a[contains(.,'unsubscribe or change your settings')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "cdfd1a83-6d4f-4244-96ea-1c162bc2c70e",
+      "comment": "",
+      "command": "click",
+      "target": "linkText=View assignment",
+      "targets": [
+        ["linkText=View assignment", "linkText"],
+        ["css=tr:nth-child(4) a", "css:finder"],
+        ["xpath=//a[contains(text(),'View assignment')]", "xpath:link"],
+        ["xpath=//div[@id=':m6']/div/table/tbody/tr/td/table/tbody/tr[2]/td/table/tbody/tr[2]/td/table/tbody/tr[2]/td[2]/table/tbody/tr[4]/td/table/tbody/tr/td/a", "xpath:idRelative"],
+        ["xpath=//a[contains(@href, 'https://accounts.google.com/AccountChooser?continue=https://classroom.google.com/c/NjY2NzQ0MDM3Njg4/a/NjUyMjc0Mjk1NTg0/submissions/by-status/and-sort-last-name/all&Email=thunhph40458@fpt.edu.vn')]", "xpath:href"],
+        ["xpath=//tr[4]/td/table/tbody/tr/td/a", "xpath:position"],
+        ["xpath=//a[contains(.,'View assignment')]", "xpath:innerText"]
+      ],
+      "value": "",
+      "opensWindow": true,
+      "windowHandleName": "win9841",
+      "windowTimeout": 2000
+    }, {
+      "id": "a4ef51bb-8b66-41a8-855a-cb77863313eb",
+      "comment": "",
+      "command": "selectWindow",
+      "target": "handle=${win9841}",
+      "targets": [],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "1a48cb56-5cd3-46b0-a40a-dc83044df237",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["95184192-0df9-498f-8edc-3909587d749e"]
+  }],
+  "urls": ["https://mail.google.com/"],
+  "plugins": []
+}
