@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="asm-gd2" />
+        <module name="LuyenTap" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="asm-gd2" target="11" />
+      <module name="LuyenTap" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
