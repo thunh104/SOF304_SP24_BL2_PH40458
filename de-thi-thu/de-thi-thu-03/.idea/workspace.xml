@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d7f5cd65-917f-4a75-a3a3-6e55b0c275d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/de-thi-thu-01.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/main/java/com/example/de_thi_thu_01/Phan1/KiemTraHocLuc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/main/java/com/example/de_thi_thu_01/Phan1/KiemTraSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/main/java/com/example/de_thi_thu_01/Phan2/DongVat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/main/java/com/example/de_thi_thu_01/Phan2/DongVatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/test/java/Phan1/KiemTraHocLucTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/test/java/Phan1/KiemTraSoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/src/test/java/Phan2/DongVatServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/Phan1/KiemTraHocLuc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/Phan1/KiemTraSo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/Phan2/DongVat$DongVatBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/Phan2/DongVat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/classes/com/example/de_thi_thu_01/Phan2/DongVatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-01/target/test-classes/Phan2/DongVatServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/artifacts/de_thi_thu_02_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/artifacts/de_thi_thu_02_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/de-thi-thu-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/java/com/example/de_thi_thu_02/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/java/com/example/de_thi_thu_02/TimMaxBaSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/java/com/example/de_thi_thu_02/TimMinBaSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/java/com/example/de_thi_thu_02/Tong1NSoLe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/test/java/TimMaxBaSoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/test/java/TimMinBaSoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/src/test/java/Tong1NSoLeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/target/classes/com/example/de_thi_thu_02/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/target/classes/com/example/de_thi_thu_02/TimMaxBaSo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-02/target/test-classes/TimMaxBaSoTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/de_thi_thu_03_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/de_thi_thu_03_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/de-thi-thu-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/de_thi_thu_03/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/de_thi_thu_03/Phan1/KiemTraSoNguyenAm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/de_thi_thu_03/Phan1/Tong2SoChan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/de_thi_thu_03/Phan2/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/de_thi_thu_03/Phan2/NhanVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Phan1/KiemTraSoNguyenAmTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Phan1/Tong2SoChanTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Phan2/NhanVienServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/de_thi_thu_03/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/example/de_thi_thu_03/Phan1/Tong2SoChan.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Phan1/Tong2SoChanTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/artifacts/de_thi_thu_04_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/artifacts/de_thi_thu_04_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/de-thi-thu-04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/java/Phan1/Thuong2So.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/java/Phan1/TrungBinhCong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/java/Phan2/SinhVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/java/Phan2/SinhVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/java/com/example/de_thi_thu_04/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/test/java/Phan1/Thuong2SoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/test/java/Phan1/TrungBinhCongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-04/src/test/java/Phan2/SinhVienServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/artifacts/de_thi_thu_05_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/artifacts/de_thi_thu_05_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/de-thi-thu-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/src/main/java/com/example/de_thi_thu_05/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-05/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/artifacts/de_thi_thu_06_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/artifacts/de_thi_thu_06_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/de-thi-thu-06.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/java/Phan1/ThuongLuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/java/Phan1/TimSoLonThuHai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/java/Phan2/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/java/Phan2/NhanVienService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/java/com/example/de_thi_thu_06/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/test/java/Phan1/ThuongLuongTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/test/java/Phan1/TimSoLonThuHai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-06/src/test/java/Phan2/NhanVienServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/artifacts/de_thi_thu_07_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/artifacts/de_thi_thu_07_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__jakarta_servlet_jakarta_servlet_api_5_0_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_engine_5_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_junit_platform_junit_platform_engine_1_7_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_opentest4j_opentest4j_1_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/libraries/Maven__org_projectlombok_lombok_1_18_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/de-thi-thu-07.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/src/main/java/com/example/de_thi_thu_07/HelloServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../de-thi-thu-07/src/main/webapp/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOURCE-CODE/ASM_PH40458.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SOURCE/_Đề mẫu 3.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TEST" beforeDir="false" afterPath="$PROJECT_DIR$/../../TEST" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="2fEynp1POA0xdua5H1LYJIGNr9b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Phan1" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.example.de_thi_thu_03.Phan1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.KiemTraSoNguyenAmTest.testPass">
+    <configuration name="KiemTraSoNguyenAmTest.testPass" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de-thi-thu-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Phan1" />
+      <option name="MAIN_CLASS_NAME" value="Phan1.KiemTraSoNguyenAmTest" />
+      <option name="METHOD_NAME" value="testPass" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tong2SoChanTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de-thi-thu-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Phan1" />
+      <option name="MAIN_CLASS_NAME" value="Phan1.Tong2SoChanTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tong2SoChanTest.testSumWithNumberIsCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de-thi-thu-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Phan1" />
+      <option name="MAIN_CLASS_NAME" value="Phan1.Tong2SoChanTest" />
+      <option name="METHOD_NAME" value="testSumWithNumberIsCharacter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tong2SoChanTest.testSumWithNumberIsInvalid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de-thi-thu-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Phan1" />
+      <option name="MAIN_CLASS_NAME" value="Phan1.Tong2SoChanTest" />
+      <option name="METHOD_NAME" value="testSumWithNumberIsInvalid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tong2SoChanTest.testSumWithNumberIsValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="de-thi-thu-03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Phan1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Phan1" />
+      <option name="MAIN_CLASS_NAME" value="Phan1.Tong2SoChanTest" />
+      <option name="METHOD_NAME" value="testSumWithNumberIsValid" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 10.1.19" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 10.1.19" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment>
+        <artifact name="de-thi-thu-03:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/de_thi_thu_03_war_exploded" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="de-thi-thu-03:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.KiemTraSoNguyenAmTest.testPass" />
+        <item itemvalue="JUnit.Tong2SoChanTest" />
+        <item itemvalue="JUnit.Tong2SoChanTest.testSumWithNumberIsCharacter" />
+        <item itemvalue="JUnit.Tong2SoChanTest.testSumWithNumberIsInvalid" />
+        <item itemvalue="JUnit.Tong2SoChanTest.testSumWithNumberIsValid" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7f5cd65-917f-4a75-a3a3-6e55b0c275d8" name="Default Changelist" comment="" />
+      <created>1713380703729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713380703729</updated>
+      <workItem from="1713380705279" duration="1808000" />
+      <workItem from="1713427831883" duration="3779000" />
+      <workItem from="1713538812432" duration="1544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
